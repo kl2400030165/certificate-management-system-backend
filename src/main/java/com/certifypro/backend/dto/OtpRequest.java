@@ -30,4 +30,3 @@ public class OtpRequest {
         this.otp = otp;
     }
 }
-
